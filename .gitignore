@@ -1,0 +1,7 @@
+/metastore_db/
+/TempStatsStore/
+/*.log
+.project
+.settings
+target
+.classpath
